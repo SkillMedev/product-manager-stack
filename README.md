@@ -1,8 +1,8 @@
 # Product Manager Stack
 
-**Roadmaps, specs, sprints, and analytics — the PM’s full operating kit.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**For PMs: turn strategy into roadmaps, specs, sprints, and the metrics to prove it shipped.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
 
-Everything a product manager needs to plan and ship. Write roadmaps and specs, define personas, run sprints, set OKRs, read product analytics, map user flows, and write crisp tickets.
+Reach for this when you own a product line and need to move from strategy to shipped, measurable outcomes without switching tools for every artifact. It carries you across the full PM loop: set OKRs, build a roadmap leadership trusts, ground decisions in personas and user flows, hand engineering crisp specs and tickets, run the sprint, then read the analytics to see if it worked. The result is a product org aligned on outcomes instead of a feature list — and a paper trail that survives the next reorg.
 
 ⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
