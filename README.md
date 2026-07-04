@@ -9,7 +9,7 @@ Reach for this when you own a product line and need to move from strategy to shi
 ## Install
 
 - **From the catalog:** [skillme.dev/pack/product-manager-stack](https://skillme.dev/pack/product-manager-stack) — install the whole pack into Claude in one step.
-- **With the skills CLI:** `npx skills add aouellets/product-manager-stack`
+- **With the skills CLI:** `npx skills add SkillMedev/product-manager-stack`
 - **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
 
 ## Skills in this pack
